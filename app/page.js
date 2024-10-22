@@ -6,7 +6,8 @@ export default function Student2() {
          <Link href="http://localhost:3000/week-2">week-2</Link><br/>
          <Link href="http://localhost:3000/week-3">week-3</Link><br/>
          <Link href="http://localhost:3000/week-4">week-4</Link><br/>
-         <Link href="http://localhost:3000/week-5">week-5</Link>
+         <Link href="http://localhost:3000/week-5">week-5</Link><br/>
+          <Link href="http://localhost:3000/week-6">week-6</Link><br/>
       </main>
     );
   }
