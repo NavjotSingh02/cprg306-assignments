@@ -10,6 +10,7 @@ export default function Student2() {
           <Link href="http://localhost:3000/week-6">week-6</Link><br/>
           <Link href="http://localhost:3000/week-7">week-7</Link><br/>
           <Link href="http://localhost:3000/week-8">week-8</Link><br/>
+          <Link href="http://localhost:3000/week-9">week-9</Link><br/>
       </main>
     );
   }
